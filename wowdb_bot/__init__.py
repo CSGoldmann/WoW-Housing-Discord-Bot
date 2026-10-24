@@ -1,0 +1,1 @@
+"""WoWDB Housing Discord bot."""
